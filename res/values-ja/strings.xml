@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">なうぷれ for twicca</string>
+    <string name="setting">設定</string>
+    <string name="set_template">投稿用のテンプレートを設定してください</string>
+    <string name="okikae">$title タイトル\n$artist アーティスト\n$album アルバム\n$trackno トラックナンバー</string>
+    <string name="setumei">以下の置き換え文字を入力してください</string>
+    <string name="OK">保存</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="sample">サンプル</string>
+    <string name="edit_intent">なうぷれ for twicca(Android標準プレイヤー)</string>
+    <string name="edit_intent_PowerAMP">なうぷれ for twicca(PowerAMP)</string>
+    <string name="NoMusicPlaying">現在再生中の音楽がありません\n更新されない場合は音楽を一旦止めてもう一度再生してください</string>
+    <string name="MusicGetError">取得に失敗しました</string>
+    <string name="ReplacementExample">例:NowPlaying $title - $artist(Album:$album) #nowplaying</string><string name="edit_intent_TTPod">なうぷれ for twicca(TTPod)</string><string name="edit_intent_PlayerPro">なうぷれ for twicca(PlayerPro)</string><string name="DisableAndroidPlayer">Android標準プレイヤーのメニューを無効化する</string><string name="DisablePowerAMP">PowerAMPのメニューを無効化する</string><string name="DisableTTPod">TTPodのメニューを無効化する</string><string name="DisablePlayerPro">PlayerProのメニューを無効化する</string><string name="DisableMenu">チェックを入れたプレイヤーの、なうぷれ for twiccaのメニューをtwicca又はマッシュルーム対応入力ソフトから消すことが出来ます</string><string name="NowPlayingMenus">NowPlayingメニュー設定</string><string name="ShareNowPlaying">なうぷれを共有</string><string name="CantOpenShare">全てのなうぷれメニューが無効化されています</string><string name="ShareSettings">共有設定</string><string name="DisableShare">「なうぷれを共有」を無効にする</string>
+</resources>

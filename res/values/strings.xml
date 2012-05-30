@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">NowPlaying for twicca</string>
+    <string name="setting">Setting</string>
+    <string name="set_template">Please set the template for the tweet.</string>
+    <string name="okikae">$title Title\n$artist Artist\n$album Album\n$trackno Track number</string>
+    <string name="setumei">Please enter the following replacement text.</string>
+    <string name="OK">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="sample">Sample</string>
+    <string name="edit_intent">NowPlaying for twicca(Default Android music player)</string>
+    <string name="edit_intent_PowerAMP">NowPlaying for twicca(PowerAMP)</string>
+    <string name="NoMusicPlaying">No music currently playing.\nWhen not updated, please stop music and play it again.</string>
+    <string name="MusicGetError">An error occurred.</string>
+    <string name="ReplacementExample">Example:NowPlaying $title - $artist(Album:$album) #nowplaying</string>
+    <string name="edit_intent_TTPod">NowPlaying for twicca(TTPod)</string>
+    <string name="edit_intent_PlayerPro">NowPlaying for twicca(PlayerPro)</string>
+    <string name="DisableAndroidPlayer">Disable default Android music player menu.</string>
+    <string name="DisablePowerAMP">Disable PowerAMP menu.</string>
+    <string name="DisableTTPod">Disable TTPod menu.</string>
+    <string name="DisablePlayerPro">Disable PlayerPro menu.</string>
+    <string name="DisableMenu">Nowplaying menus on twicca will be diabled if you check this box.</string>
+    <string name="NowPlayingMenus">NowPlaying menu settings</string>
+    <string name="ShareNowPlaying">Share NowPlaying</string>
+    <string name="CantOpenShare">All NowPlaying menu is disabled.</string>
+    <string name="ShareSettings">Share Settings</string>
+    <string name="DisableShare">Disable "Share NowPlaying" on launcher.</string>
+</resources>
